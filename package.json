@@ -1,0 +1,25 @@
+{
+  "name": "@splash-cli/unsplash-parse-exif",
+  "version": "1.0.0",
+  "description": "Parse unsplash api exifs",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "repository": "git+https://github.com/splash-cli/unsplash-parse-exif.git",
+  "keywords": [
+    "parse",
+    "exif",
+    "unsplash"
+  ],
+  "author": "Federico Vitale <fedevitale99@gmail.com> (federicovitale.me)",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/splash-cli/unsplash-parse-exif/issues"
+  },
+  "homepage": "https://github.com/splash-cli/unsplash-parse-exif#readme"
+}
