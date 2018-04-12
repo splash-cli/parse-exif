@@ -1,5 +1,5 @@
 {
-  "name": "@splash-cli/unsplash-parse-exif",
+  "name": "@splash-cli/parse-exif",
   "version": "1.0.0",
   "description": "Parse unsplash api exifs",
   "main": "build/index.js",
