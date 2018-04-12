@@ -4,7 +4,8 @@
   "description": "Parse unsplash api exifs",
   "main": "build/index.js",
   "scripts": {
-    "build": "babel src -d build"
+    "build": "babel src -d build",
+    "prepublish": "npm run build"
   },
   "repository": "git+https://github.com/splash-cli/unsplash-parse-exif.git",
   "keywords": [
